@@ -19,13 +19,4 @@ This repository is mainly for **personal learning** and **reference**. Feel free
 
 ---
 
-## 📌 **README.md for Each Week**  
-This will go inside each **Week folder** to explain what problems were assigned that week.
 
-
-## 📌 How to Run the Code?
-To compile and run any program, use the following commands in a terminal:
-
-```sh
-g++ 01-sum-of-two-numbers.cpp -o sum
-./sum
