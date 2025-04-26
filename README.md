@@ -1,22 +1,30 @@
-# pf-assignments-2025
-This repository contains my Programming Fundamentals assignments, practice problems, and solutions.
+# Programming Fundamentals - Assignment Solutions (BSSE 1st Semester)
 
-## 🔹 How to Use This Repo?
+Welcome to my repository!  
+This repository contains all the assignment solutions for the **Programming Fundamentals** course (BSSE - First Semester).
 
-- Each **week's folder** contains problems assigned in that week's class.
-- Each **`.cpp` file** is a solution to a specific problem.
-- Each **week has a `README.md`** that describes the problems in detail.
-
-## 🛠️ Topics Covered
-✔️ Variables & Data Types  
-✔️ Conditional Statements  
-✔️ Loops & Iterations  
-✔️ Functions  
-✔️ Arrays & Pointers *(Upcoming)*  
-
-## 📢 Notes
-This repository is mainly for **personal learning** and **reference**. Feel free to use these codes for **understanding** but **write your own solutions** for better learning!
+The solutions are written in **C++**, with clear comments and clean formatting to help students learn and understand easily.
 
 ---
 
+## Course Details:
+
+- **Course:** Programming Fundamentals
+- **Program:** BSSE (Bachelor of Science in Software Engineering)
+- **Semester:** 1st Semester
+- **Language Used:** C++
+- **University:** UBIT - University of Karachi
+
+---
+
+## Repository Structure:
+
+Each week's assignments are organized into separate folders.  
+Inside each folder, you will find:
+
+- Solution `.cpp` files for each exercise
+- The original questions PDF (for reference)
+- A `README.md` (optional) with exercise descriptions (inside each folder)
+
+Example Structure:
 
